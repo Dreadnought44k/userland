@@ -1,0 +1,11 @@
+/bin/mountpoint
+/bin/ubase-box
+/bin/ubase-box.bak
+/sbin/ctrlaltdel
+/sbin/fsfreeze
+/sbin/mkswap
+/sbin/pivot_root
+/sbin/swaplabel
+/sbin/swapoff
+/sbin/swapon
+/sbin/switch_root
