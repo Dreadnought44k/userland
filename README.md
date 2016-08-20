@@ -35,8 +35,11 @@ Some people on the arch forums that inspired me to do it, thanks guy that change
 The LICENSE file only applies to the script itself.
 
 Check bellow for the respective software's used LICENSE
+
 [Busybox LICENSE](https://busybox.net/license.html)
+
 [sbase LICENSE](http://git.suckless.org/sbase/tree/LICENSE)
+
 [ubase LICENSE](http://git.suckless.org/ubase/tree/LICENSE)
 
 
