@@ -28,7 +28,7 @@ if you link anything new manually or unlink due to incompatibility, Run updatein
 
 [suckless](http://suckless.org/) for creating [sbase](http://core.suckless.org/sbase) and [ubase](http://core.suckless.org/ubase) that are combined with busybox to provide my userland
 
-[musl devs](https://www.musl-libc.org/) for making the libc using in my system
+[musl devs](https://www.musl-libc.org/) for making the libc used in my system
 
 Some people on the arch forums that inspired me to do it, thanks guy that changed his userland with toybox.
 
@@ -53,5 +53,3 @@ Check bellow for the respective software's used LICENSE
 [sbase LICENSE](http://git.suckless.org/sbase/tree/LICENSE)
 
 [ubase LICENSE](http://git.suckless.org/ubase/tree/LICENSE)
-
-
