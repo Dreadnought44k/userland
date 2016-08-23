@@ -37,6 +37,7 @@
 /usr/bin/setfont
 /usr/bin/shuf
 /usr/bin/stat
+/usr/bin/sum
 /usr/bin/tac
 /usr/bin/timeout
 /usr/bin/unlink
