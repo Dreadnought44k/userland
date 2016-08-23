@@ -16,5 +16,5 @@ done
 
 grep -v '^ *#' < ubase-boxTools | while IFS= read -r line
 do 
-    ln -s /bin/ubase-box bbdir/"$line"
+    ln -s /bin/ubase-box "$line"
 done
