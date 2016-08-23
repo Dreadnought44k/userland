@@ -7,7 +7,6 @@
 /bin/dirname
 /bin/du
 /bin/false
-/bin/mkdir
 /bin/mkfifo
 /bin/mktemp
 /bin/pwd
