@@ -4,8 +4,12 @@
 /sbin/ctrlaltdel
 /sbin/fsfreeze
 /sbin/mkswap
+/sbin/nologin
 /sbin/pivot_root
 /sbin/swaplabel
 /sbin/swapoff
 /sbin/swapon
 /sbin/switch_root
+/usr/bin/chvt
+/usr/bin/clear
+/usr/bin/last

@@ -45,6 +45,7 @@
 /usr/bin/od
 /usr/bin/printenv
 /usr/bin/printf
+/usr/bin/pwdx
 /usr/bin/rev
 /usr/bin/setfont
 /usr/bin/shuf
