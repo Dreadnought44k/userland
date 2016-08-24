@@ -53,6 +53,7 @@
 /usr/bin/sum
 /usr/bin/tac
 /usr/bin/timeout
+/usr/bin/top
 /usr/bin/unlink
 /usr/bin/wget
 /usr/bin/which
