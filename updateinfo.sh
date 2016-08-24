@@ -1,16 +1,14 @@
 #!/bin/sh
-# This directive applies to the entire script
-# shellcheck disable=SC2010
-true
 
 TOOLKIT=busybox
-ls -alh -d /sbin/* /bin/* /usr/bin/* | grep "$TOOLKIT" | awk '{print $9}' > "$TOOLKIT"Tools
-
-TOOLKIT=sbase-box
-ls -alh -d /sbin/* /bin/* /usr/bin/* | grep "$TOOLKIT" | awk '{print $9}' > "$TOOLKIT"Tools
-
-TOOLKIT=ubase-box
-ls -alh -d /sbin/* /bin/* /usr/bin/* | grep "$TOOLKIT" | awk '{print $9}' > "$TOOLKIT"Tools
+find /sbin /bin /usr/bin -lname /bin/"$TOOLKIT" #> "$TOOLKIT"Tools
 
 TOOLKIT=toybox
-ls -alh -d /sbin/* /bin/* /usr/bin/* | grep "$TOOLKIT" | awk '{print $9}' > "$TOOLKIT"Tools
+find /sbin /bin /usr/bin -lname /bin/"$TOOLKIT" #> "$TOOLKIT"Tools
+
+TOOLKIT=sbase-box
+find /sbin /bin /usr/bin -lname /bin/"$TOOLKIT" #> "$TOOLKIT"Tools
+
+TOOLKIT=ubase-box
+find /sbin /bin /usr/bin -lname /bin/"$TOOLKIT" #> "$TOOLKIT"Tools
+
