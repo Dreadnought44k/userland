@@ -1,9 +1,11 @@
 /sbin/killall5
 /sbin/blockdev
+/bin/chmod
 /bin/echo
 /bin/rm
 /bin/kill
 /bin/ifconfig
+/bin/umount
 /bin/mv
 /bin/chgrp
 /bin/login
@@ -14,6 +16,7 @@
 /usr/bin/base64
 /usr/bin/unlink
 /usr/bin/factor
+/usr/bin/timeout
 /usr/bin/chattr
 /usr/bin/ionice
 /usr/bin/fallocate
