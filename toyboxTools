@@ -1,6 +1,5 @@
 /sbin/killall5
 /sbin/blockdev
-/bin/ps
 /bin/echo
 /bin/rm
 /bin/kill
