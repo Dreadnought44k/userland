@@ -4,22 +4,17 @@
 /bin/chmod
 /bin/cut
 /bin/dd
-/bin/echo
 /bin/env
 /bin/expr
 /bin/groups
 /bin/head
 /bin/hostname
-/bin/ifconfig
 /bin/ip
-/bin/kill
 /bin/ln
 /bin/ls
 /bin/mkdir
-/bin/mv
 /bin/netstat
 /bin/ping
-/bin/rm
 /bin/route
 /bin/tail
 /bin/touch
@@ -28,7 +23,6 @@
 /sbin/blockdev
 /sbin/findfs
 /sbin/fstrim
-/sbin/killall5
 /sbin/nameif
 /usr/bin/chattr
 /usr/bin/chpst
@@ -41,8 +35,6 @@
 /usr/bin/ipcrm
 /usr/bin/kbd_mode
 /usr/bin/less
-/usr/bin/lsattr
-/usr/bin/od
 /usr/bin/printenv
 /usr/bin/printf
 /usr/bin/pwdx
@@ -51,7 +43,6 @@
 /usr/bin/shuf
 /usr/bin/stat
 /usr/bin/sum
-/usr/bin/tac
 /usr/bin/timeout
 /usr/bin/top
 /usr/bin/unlink
