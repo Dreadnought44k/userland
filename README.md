@@ -1,9 +1,11 @@
 # userland
+
 Script that puts my custom userland in place, uses busybox sbase-box and ubase-box
 
 ---
 
 ## Considerations
+
 Only tested on my gentoo box
 
 it's meant to be used with my installscript,but can be used alone
@@ -17,8 +19,8 @@ list of changes in userland must be made manually
 
 #### The way it's run
 
-Run makeallsymlinks.sh to install (make symlinks necessary) my userland
-if you link anything new manually or unlink due to incompatibility, Run updateinfo.sh to update the list of things used by busybox,sbase-box,ubase-box
+- Run makeallsymlinks.sh to install (make symlinks necessary) my userland
+- if you link anything new manually or unlink due to incompatibility, Run updateinfo.sh to update the list of things used by busybox,sbase-box,ubase-box
 
 ---
 
