@@ -14,7 +14,6 @@
 /bin/chroot
 /bin/rmdir
 /bin/mktemp
-/bin/cat
 /bin/wc
 /bin/sync
 /bin/date
