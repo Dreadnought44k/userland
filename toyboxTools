@@ -23,6 +23,7 @@
 /usr/bin/nproc
 /usr/bin/printf
 /usr/bin/od
+/usr/bin/stat
 /usr/bin/id
 /usr/bin/lsattr
 /usr/bin/rev

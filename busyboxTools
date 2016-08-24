@@ -31,7 +31,6 @@
 /usr/bin/ipcrm
 /usr/bin/setfont
 /usr/bin/sum
-/usr/bin/stat
 /usr/bin/which
 /usr/bin/getopt
 /usr/bin/chrt
