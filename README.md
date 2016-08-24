@@ -38,7 +38,7 @@ Some people on the arch forums that inspired me to do it, thanks guy that change
 
 ## TODO
 
-[ ] Implement toybox where applicable (easy but long testing time)
+[ ] Implement toybox where applicable (easy but long testing time) -- in progress
 
 [ ] Get rid of GNU coreutils (impossible since Gentoo's portage and many functions are heavily dependent on it)
 
