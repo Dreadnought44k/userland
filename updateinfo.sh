@@ -11,3 +11,6 @@ ls -alh -d /sbin/* /bin/* /usr/bin/* | grep "$TOOLKIT" | awk '{print $9}' > "$TO
 
 TOOLKIT=ubase-box
 ls -alh -d /sbin/* /bin/* /usr/bin/* | grep "$TOOLKIT" | awk '{print $9}' > "$TOOLKIT"Tools
+
+TOOLKIT=toybox
+ls -alh -d /sbin/* /bin/* /usr/bin/* | grep "$TOOLKIT" | awk '{print $9}' > "$TOOLKIT"Tools
