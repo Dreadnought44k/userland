@@ -6,20 +6,20 @@
 
 grep -v '^ *#' < busyboxTools | while IFS= read -r line
 do
-    ln -s /bin/busybox "$line"
+    ln -sf /bin/busybox "$line"
 done
 
 grep -v '^ *#' < sbase-boxTools | while IFS= read -r line
 do
-    ln -s /bin/sbase-box "$line"
+    ln -sf /bin/sbase-box "$line"
 done
 
 grep -v '^ *#' < ubase-boxTools | while IFS= read -r line
 do 
-    ln -s /bin/ubase-box "$line"
+    ln -sf /bin/ubase-box "$line"
 done
 
 grep -v '^ *#' < toyboxTools | while IFS= read -r line
 do
-    ln -s /bin/toybox "$line"
+    ln -sf /bin/toybox "$line"
 done
