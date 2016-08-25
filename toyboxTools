@@ -19,6 +19,7 @@
 /usr/bin/timeout
 /usr/bin/chattr
 /usr/bin/ionice
+/usr/bin/printenv
 /usr/bin/fallocate
 /usr/bin/nproc
 /usr/bin/printf

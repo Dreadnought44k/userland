@@ -23,7 +23,6 @@
 /usr/bin/fgconsole
 /usr/bin/deallocvt
 /usr/bin/wget
-/usr/bin/printenv
 /usr/bin/xargs
 /usr/bin/chpst
 /usr/bin/shuf
