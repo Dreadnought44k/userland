@@ -19,7 +19,7 @@ do
     ln -sf /bin/ubase-box "$line"
 done
 
-grep -v '^ *#' < toyboxTools | while IFS= read -r line
-do
-    ln -sf /bin/toybox "$line"
-done
+# grep -v '^ *#' < toyboxTools | while IFS= read -r line
+# do
+#     ln -sf /bin/toybox "$line"
+# done
