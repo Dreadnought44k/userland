@@ -1,6 +1,15 @@
+/sbin/rmmod
+/bin/lsmod
+/usr/bin/unshare
 /usr/bin/vmstat
 /usr/bin/nsenter
+/usr/bin/truncate
 /usr/bin/hostid
 /usr/bin/shred
+/usr/bin/uptime
 /usr/bin/nproc
+/usr/bin/w
+/usr/bin/count
+/usr/bin/who
+/usr/bin/pmap
 /usr/bin/paste

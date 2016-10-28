@@ -2,6 +2,7 @@
 /sbin/swapoff
 /sbin/losetup
 /sbin/switch_root
+/sbin/poweroff
 /sbin/mkswap
 /sbin/swapon
 /sbin/fstrim
@@ -13,9 +14,11 @@
 /sbin/nameif
 /sbin/findfs
 /sbin/start-stop-daemon
+/sbin/reboot
 /sbin/sulogin
 /sbin/arp
 /sbin/blockdev
+/sbin/halt
 /bin/passwd
 /bin/cal
 /bin/true
@@ -86,6 +89,7 @@
 /usr/bin/ipcrm
 /usr/bin/chrt
 /usr/bin/fgconsole
+/usr/bin/install
 /usr/bin/split
 /usr/bin/timeout
 /usr/bin/chvt
@@ -111,6 +115,8 @@
 /usr/bin/deallocvt
 /usr/bin/whoami
 /usr/bin/dc
+/usr/bin/pkill
+/usr/bin/strings
 /usr/bin/base64
 /usr/bin/expand
 /usr/bin/setfont
@@ -121,6 +127,7 @@
 /usr/bin/sum
 /usr/bin/uniq
 /usr/bin/xargs
+/usr/bin/killall
 /usr/bin/ionice
 /usr/bin/top
 /usr/bin/nc
