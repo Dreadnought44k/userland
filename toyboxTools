@@ -1,0 +1,6 @@
+/usr/bin/vmstat
+/usr/bin/nsenter
+/usr/bin/hostid
+/usr/bin/shred
+/usr/bin/nproc
+/usr/bin/paste
