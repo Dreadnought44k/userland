@@ -83,6 +83,7 @@
 /usr/bin/sha224sum
 /usr/bin/getopt
 /usr/bin/shuf
+/usr/bin/showkey
 /usr/bin/rev
 /usr/bin/clear
 /usr/bin/od
@@ -104,6 +105,7 @@
 /usr/bin/sha256sum
 /usr/bin/lsattr
 /usr/bin/chpst
+/usr/bin/envdir
 /usr/bin/test
 /usr/bin/lsof
 /usr/bin/chattr
@@ -138,6 +140,7 @@
 /usr/bin/cksum
 /usr/bin/sha512sum
 /usr/bin/eject
+/usr/bin/envuidgid
 /usr/bin/tac
 /usr/bin/flock
 /usr/bin/cmp
