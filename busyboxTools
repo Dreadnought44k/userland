@@ -2,6 +2,7 @@
 /sbin/swapoff
 /sbin/losetup
 /sbin/switch_root
+/sbin/udhcpc
 /sbin/poweroff
 /sbin/mkswap
 /sbin/swapon
@@ -14,6 +15,7 @@
 /sbin/nameif
 /sbin/findfs
 /sbin/start-stop-daemon
+/sbin/udhcpd
 /sbin/reboot
 /sbin/sulogin
 /sbin/arp
@@ -89,6 +91,7 @@
 /usr/bin/ipcrm
 /usr/bin/chrt
 /usr/bin/fgconsole
+/usr/bin/watch
 /usr/bin/install
 /usr/bin/split
 /usr/bin/timeout
@@ -103,10 +106,12 @@
 /usr/bin/lsattr
 /usr/bin/chpst
 /usr/bin/test
+/usr/bin/lsof
 /usr/bin/chattr
 /usr/bin/diff
 /usr/bin/logname
 /usr/bin/less
+/usr/bin/openvt
 /usr/bin/printenv
 /usr/bin/renice
 /usr/bin/tee
