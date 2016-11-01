@@ -1,4 +1,5 @@
 /usr/sbin/sysctl
+/usr/sbin/rtcwake
 /sbin/swapoff
 /sbin/losetup
 /sbin/switch_root
@@ -9,6 +10,7 @@
 /sbin/fstrim
 /sbin/fdisk
 /sbin/killall5
+/sbin/init
 /sbin/hwclock
 /sbin/pivot_root
 /sbin/blkid
@@ -36,6 +38,7 @@
 /bin/head
 /bin/chgrp
 /bin/route
+/bin/fuser
 /bin/mkfifo
 /bin/sleep
 /bin/chmod
@@ -44,6 +47,7 @@
 /bin/umount
 /bin/netstat
 /bin/time
+/bin/ttysize
 /bin/rmdir
 /bin/echo
 /bin/false
@@ -91,6 +95,7 @@
 /usr/bin/ipcrm
 /usr/bin/chrt
 /usr/bin/fgconsole
+/usr/bin/setkeycodes
 /usr/bin/watch
 /usr/bin/install
 /usr/bin/split
@@ -114,12 +119,15 @@
 /usr/bin/less
 /usr/bin/openvt
 /usr/bin/printenv
+/usr/bin/setarch
+/usr/bin/pidof
 /usr/bin/renice
 /usr/bin/tee
 /usr/bin/printf
 /usr/bin/sha384sum
 /usr/bin/deallocvt
 /usr/bin/whoami
+/usr/bin/iostat
 /usr/bin/dc
 /usr/bin/pkill
 /usr/bin/strings
@@ -144,5 +152,6 @@
 /usr/bin/tac
 /usr/bin/flock
 /usr/bin/cmp
+/usr/bin/mpstat
 /usr/bin/unlink
 /usr/bin/stat
