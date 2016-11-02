@@ -3,10 +3,6 @@
 /bin/lsmod
 /bin/exit
 /bin/readlink
-/usr/sbin/groupdel
-/usr/sbin/userdel
-/usr/sbin/groupadd
-/usr/sbin/useradd
 /usr/bin/fallocate
 /usr/bin/unshare
 /usr/bin/vmstat
