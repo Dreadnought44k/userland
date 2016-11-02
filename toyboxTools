@@ -1,6 +1,7 @@
 /sbin/fsfreeze
 /sbin/rmmod
 /bin/lsmod
+/bin/exit
 /bin/readlink
 /usr/sbin/groupdel
 /usr/sbin/userdel
@@ -11,6 +12,8 @@
 /usr/bin/vmstat
 /usr/bin/nsenter
 /usr/bin/factor
+/usr/bin/hostid
+/usr/bin/shred
 /usr/bin/uptime
 /usr/bin/nproc
 /usr/bin/w
