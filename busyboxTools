@@ -1,3 +1,4 @@
+/usr/sbin/chpasswd
 /usr/sbin/sysctl
 /usr/sbin/rtcwake
 /sbin/swapoff
