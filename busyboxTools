@@ -79,12 +79,10 @@
 /bin/seq
 /bin/tty
 /bin/chroot
-/bin/login
 /bin/stty
 /bin/hostname
 /bin/tr
 /bin/basename
-/bin/su
 /usr/bin/sha224sum
 /usr/bin/getopt
 /usr/bin/shuf
