@@ -19,7 +19,6 @@
 /sbin/findfs
 /sbin/start-stop-daemon
 /sbin/reboot
-/sbin/sulogin
 /sbin/arp
 /sbin/blockdev
 /sbin/halt
@@ -104,7 +103,6 @@
 /usr/bin/kbd_mode
 /usr/bin/sha256sum
 /usr/bin/lsattr
-/usr/bin/chpst
 /usr/bin/truncate
 /usr/bin/envdir
 /usr/bin/test
