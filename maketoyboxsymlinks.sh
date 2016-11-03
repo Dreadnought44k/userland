@@ -6,6 +6,6 @@
 
 grep -v '^ *#' < toyboxTools | while IFS= read -r line
 do
-    ln -sf /bin/toybox "$line"
+    ln -sf /usr/bin/toybox "$line"
 done
 

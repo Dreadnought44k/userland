@@ -1,6 +1,6 @@
 # userland
 
-Script that puts my custom userland in place, uses busybox sbase-box and ubase-box
+Script that puts my custom userland in place, uses busybox and toybox
 
 ---
 
@@ -9,11 +9,6 @@ Script that puts my custom userland in place, uses busybox sbase-box and ubase-b
 Only tested on my gentoo box
 
 it's meant to be used with my installscript,but can be used alone
-
-only dash shell is supported.
-
-list of changes in userland must be made manually
-
 
 ---
 
@@ -26,9 +21,9 @@ list of changes in userland must be made manually
 
 ## Credits
 
-[Busybox Devs](https://busybox.net/) for making an excellent toolbox that is the mostly used in my userland
+[Busybox Devs](https://busybox.net/) for making busybox
 
-[suckless](http://suckless.org/) for creating [sbase](http://core.suckless.org/sbase) and [ubase](http://core.suckless.org/ubase) that are combined with busybox to provide my userland
+[Toybox devs](http://landley.net/toybox/) for making toybox
 
 [musl devs](https://www.musl-libc.org/) for making the libc used in my system
 
@@ -50,6 +45,4 @@ Check bellow for the respective software's used LICENSE
 
 [Busybox LICENSE](https://busybox.net/license.html)
 
-[sbase LICENSE](http://git.suckless.org/sbase/tree/LICENSE)
-
-[ubase LICENSE](http://git.suckless.org/ubase/tree/LICENSE)
+[Toybox LICENSE](http://landley.net/toybox/license.html)

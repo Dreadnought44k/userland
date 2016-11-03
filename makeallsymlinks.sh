@@ -4,4 +4,4 @@
 # Assumes the existance of info files {busyboxTools,sbase-boxTools,ubase-boxTools}
 # Doesn't replace functions that are vital for Gentoo, again, expect GNU Coreutils
 
-/bin/sh make{busybox,toybox,sbase-box,ubase-box}symlinks.sh
+/bin/sh make{busybox,toybox}symlinks.sh
