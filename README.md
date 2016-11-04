@@ -15,7 +15,7 @@ it's meant to be used with my installscript,but can be used alone
 #### The way it's run
 
 - Run makeallsymlinks.sh to install (make symlinks necessary) my userland
-- if you link anything new manually or unlink due to incompatibility, Run updateinfo.sh to update the list of things used by busybox,sbase-box,ubase-box
+- if you link anything new manually or unlink due to incompatibility, Run updateinfo.sh to update the list of things used by busybox and toybox
 
 ---
 
